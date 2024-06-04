@@ -1,0 +1,9 @@
+C:\Users\rsrom\OneDrive - Southern Alberta Institute of Technology\SAIT - VS Code\Term 2\CPRG 211\Assignment 1\Appliances\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+C:\Users\rsrom\OneDrive - Southern Alberta Institute of Technology\SAIT - VS Code\Term 2\CPRG 211\Assignment 1\Appliances\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+C:\Users\rsrom\OneDrive\Documents\SAIT Homework\CPRG 211\Assignments\Assignment 1\Appliances\Appliances\obj\Debug\Appliances.csproj.AssemblyReference.cache
+C:\Users\rsrom\OneDrive\Documents\SAIT Homework\CPRG 211\Assignments\Assignment 1\Appliances\Appliances\obj\Debug\Appliances.csproj.CoreCompileInputs.cache
+C:\Users\rsrom\OneDrive\Documents\SAIT Homework\CPRG 211\Assignments\Assignment 1\Appliances\Appliances\bin\Debug\Appliances.exe.config
+C:\Users\rsrom\OneDrive\Documents\SAIT Homework\CPRG 211\Assignments\Assignment 1\Appliances\Appliances\bin\Debug\Appliances.exe
+C:\Users\rsrom\OneDrive\Documents\SAIT Homework\CPRG 211\Assignments\Assignment 1\Appliances\Appliances\bin\Debug\Appliances.pdb
+C:\Users\rsrom\OneDrive\Documents\SAIT Homework\CPRG 211\Assignments\Assignment 1\Appliances\Appliances\obj\Debug\Appliances.exe
+C:\Users\rsrom\OneDrive\Documents\SAIT Homework\CPRG 211\Assignments\Assignment 1\Appliances\Appliances\obj\Debug\Appliances.pdb
