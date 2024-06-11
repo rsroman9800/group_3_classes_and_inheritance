@@ -1,0 +1,7 @@
+C:\SAIT - OneDrive\OneDrive - Southern Alberta Institute of Technology\OOP2\Assignment_1\obj\Debug\Assignment_1.csproj.AssemblyReference.cache
+C:\SAIT - OneDrive\OneDrive - Southern Alberta Institute of Technology\OOP2\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+C:\SAIT - OneDrive\OneDrive - Southern Alberta Institute of Technology\OOP2\Assignment_1\bin\Debug\Assignment_1.exe.config
+C:\SAIT - OneDrive\OneDrive - Southern Alberta Institute of Technology\OOP2\Assignment_1\bin\Debug\Assignment_1.exe
+C:\SAIT - OneDrive\OneDrive - Southern Alberta Institute of Technology\OOP2\Assignment_1\bin\Debug\Assignment_1.pdb
+C:\SAIT - OneDrive\OneDrive - Southern Alberta Institute of Technology\OOP2\Assignment_1\obj\Debug\Assignment_1.exe
+C:\SAIT - OneDrive\OneDrive - Southern Alberta Institute of Technology\OOP2\Assignment_1\obj\Debug\Assignment_1.pdb
