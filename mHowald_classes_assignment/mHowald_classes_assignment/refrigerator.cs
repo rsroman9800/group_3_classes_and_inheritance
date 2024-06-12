@@ -8,9 +8,13 @@ namespace mHowald_classes_assignment
 {
     internal class refrigerator : appliance
     {
-        private int doors { get; set; }
-        private int width { get; set; }
-        private int height { get; set; }
+        private int doors;
+        private int height;
+        private int width;
+
+        public int Doors { get => doors; set => doors = value; }
+        public int Height { get => height; set => height = value; }
+        public int Width { get => width; set => width = value; }
 
         public refrigerator()
         {

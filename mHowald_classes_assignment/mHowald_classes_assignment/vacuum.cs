@@ -8,8 +8,11 @@ namespace mHowald_classes_assignment
 {
     internal class vacuum : appliance
     {
-        private string grade { get; set; }
-        private int voltage { get; set; }
+        private string grade;
+        private int voltage;
+        public string Grade { get => grade; set => grade = value; }
+        public int Voltage { get => voltage; set => voltage = value; }
+
 
 
         public vacuum()

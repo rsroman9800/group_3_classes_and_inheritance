@@ -8,8 +8,11 @@ namespace mHowald_classes_assignment
 {
     internal class dishwasher : appliance
     {
-        private string feature { get; set; }
-        private string soundRating { get; set; }
+        private string feature;
+        private string soundRating;
+
+        public string Feature { get => feature; set => feature = value; }
+        public string SoundRating { get => soundRating; set => soundRating = value; }
 
         public dishwasher()
         {

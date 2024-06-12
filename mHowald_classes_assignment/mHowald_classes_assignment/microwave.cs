@@ -8,8 +8,11 @@ namespace mHowald_classes_assignment
 {
     internal class microwave : appliance
     {
-        private double capacity { get; set; }
-        private string roomType { get; set; }
+        private double capacity;
+        private string roomType;
+
+        public double Capacity { get => capacity; set => capacity = value; }
+        public string RoomType { get => roomType; set => roomType = value; }
 
         public microwave()
         {

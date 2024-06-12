@@ -9,12 +9,21 @@ namespace mHowald_classes_assignment
 {
     abstract class appliance
     {
-        private long itemNumber { get; set; }
-        private string brand { get; set; }
-        private int quantity { get; set; }
-        private double wattage { get; set; }
-        private string color { get; set; }
-        private double price { get; set; }
+        //Setting attributes for the appliance that will be inherited by other classes
+        private long itemNumber;
+        private string brand;
+        private int quantity;
+        private double wattage;
+        private string color;
+        private double price;
+
+        // Setting getters and setters
+        public long ItemNumber { get => itemNumber; set => itemNumber = value; }
+        public string Brand { get => brand; set => brand = value; }
+        public int Quantity { get => quantity; set => quantity = value; }
+        public double Wattage { get => wattage; set => wattage = value; }
+        public string Color { get => color; set => color = value; }
+        public double Price { get => price; set => price = value; }
 
 
         protected appliance()
